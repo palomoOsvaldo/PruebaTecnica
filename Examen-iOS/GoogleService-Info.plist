@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>94257829701-val904s57lor6muii96022qfbdbtk30h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.94257829701-val904s57lor6muii96022qfbdbtk30h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAV1RRswt869_yPQdTfxp3CYBn6izipqwk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>94257829701</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.OsvaldoSP.Examen-iOS</string>
+	<key>PROJECT_ID</key>
+	<string>examen-ios-534f4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>examen-ios-534f4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:94257829701:ios:4d1ea07c27ac50e9e2902c</string>
+</dict>
+</plist>
